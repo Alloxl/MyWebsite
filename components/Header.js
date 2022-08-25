@@ -5,7 +5,7 @@ const items = [
     { icon: 'fab fa-discord', link: 'https://discord.com/users/766202953312108554' },
     { icon: 'fab fa-instagram', link: 'https://instagram.com/efx.kjq' },
     //{ icon: 'fab fa-facebook', link: 'https://facebook.com/umutxyp' },
-    { icon: 'fab fa-github', link: 'https://github.com/AloneTeamDiscordBots' },
+    { icon: 'fab fa-github', link: 'https://github.com/Alloxl' },
   ]
 
 const navItems = [
