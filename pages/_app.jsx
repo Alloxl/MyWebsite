@@ -37,7 +37,7 @@ function MyApp({ Component, pageProps }) {
     });
   return (<>
     <Head>
-        <title>Umut Bayraktar</title>
+        <title>Alloxxa Website</title>
         <link rel="shortcut icon" href="https://cdn.discordapp.com/attachments/890293133236133939/1012359429955526696/ALX.png" type="image/x-icon" ></link>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="https://pro.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" />
@@ -56,7 +56,7 @@ function MyApp({ Component, pageProps }) {
         <div style={{ zIndex: 99999 }} className="fixed bg-black/75 w-full h-screen flex justify-center items-center pointer-events-none">
             <div className="flex items-center gap-x-6 animate-pulse">
                 <div className="text-center">
-                    <p className="text-6xl mb-5 font-semibold">Alloxxa - Website</p>
+                    <p className="text-6xl mb-5 font-semibold">Alloxxa</p>
                     <p className="uppercase text-xl font-semibold text-white"><i className="fal fa-spinner-third fa-spin" /></p>
                 </div>
             </div>
