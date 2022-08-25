@@ -2,27 +2,27 @@ export default async (req, res) => {
   const data = [
     {
       id: 1,
-      image: "https://media.discordapp.net/attachments/737348411568685066/954502826791428136/codeshare_logo.png",
-      name: "Code Shop",
+      image: "https://cdn.discordapp.com/attachments/890293133236133939/1012361541695320214/AVA_Logo_1000px.png",
+      name: "Ava Software",
       description:
-        "Publish your own software or images for free or for a fee. Earn money.",
-      link: "https://codeshare.me",
+        "Use Cheats Developed For Some Games, Get Information About Them Or Ask How To Do It.",
+      link: "https://discord.gg/mxqwkkPTm5",
     },
     {
       id: 2,
-      image: "https://media.discordapp.net/attachments/737348411568685066/999563078079361074/YT_AVATAR_NET.jpg",
+      image: "https://cdn.discordapp.com/attachments/890293133236133939/1012362434255790210/EFX_-_Renk_-_Black.png",
       name: "Youtube",
       description:
-        "I am a professional editor and intermediate software developer. I have been professionally interested in community management and development for 5 years, I have high level knowledge and experience in areas such as community management and social media management. I post videos about discord on my youtube channel.",
-      link: "https://youtube.com/UmutBayraktarYT",
+        "Game Videos Coming Soon!",
+      link: "https://www.youtube.com/channel/UCcK1utqi5V_1uIuQHNe6lLw",
     },
      {
       id: 3,
-      image: "https://caoscrew.com/assets/images/team/KK.jpg",
-      name: "Caos Crew",
+      image: "https://cdn.discordapp.com/attachments/890293133236133939/1012362788267630694/efx_styla.png",
+      name: "Instagram",
       description:
-        "A magnificent and valuable nft collection of 8888 pieces.",
-      link: "https://caoscrew.com/",
+        "I Will Share... Stay Followed!",
+      link: "https://instagram.com/efx.kjq/",
     }
   ];
   res.status(200).json(data);
