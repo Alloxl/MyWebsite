@@ -20,12 +20,6 @@ export default function Home() {
                         <p className="font-semibold text-xl">@efx.kjq</p>
                     </div>
                 </a>
-                //<a target="_blank" rel="norefferer" href="https://facebook.com/umutxyp/">
-                   // <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
-                      //  <i className="fab fa-facebook fa-2x" />
-                       // <p className="font-semibold text-xl">@umutxyp</p>
-                   // </div>
-               // </a>
                 <a target="_blank" rel="norefferer" href="https://discord.com/users/766202953312108554">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-discord fa-2x" />
