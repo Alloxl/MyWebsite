@@ -3,7 +3,7 @@ const items = [
     { icon: 'fab fa-youtube', link: 'https://www.youtube.com/channel/UCcK1utqi5V_1uIuQHNe6lLw' },
     { icon: 'fab fa-twitch', link: 'https://www.twitch.tv/efeykss' },
     { icon: 'fab fa-discord', link: 'https://discord.com/users/766202953312108554' },
-    { icon: 'fab fa-instagram', link: 'https://instagram.com/efx.kjq' },
+    { icon: 'fab fa-instagram', link: 'https://instagram.com/efx.mkv' },
     //{ icon: 'fab fa-facebook', link: 'https://facebook.com/umutxyp' },
     { icon: 'fab fa-github', link: 'https://github.com/Alloxl' },
   ]
