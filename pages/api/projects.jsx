@@ -22,7 +22,7 @@ export default async (req, res) => {
       name: "Instagram",
       description:
         "I Will Share... Stay Followed!",
-      link: "https://instagram.com/efx.kjq/",
+      link: "https://instagram.com/efx.mkv/",
     }
   ];
   res.status(200).json(data);
